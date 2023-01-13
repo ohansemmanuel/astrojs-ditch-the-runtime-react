@@ -28,3 +28,14 @@ The effect of asset optimisation in both libraries is arguably negligible. The m
 **Astro ships none by default.**
 
 **React ships over 9000+ lines of Javascript** for the same trivial application, with the React runtime overhead being the major culprit.
+
+<br />
+
+## Run the project 🛖
+
+```bash
+  git clone https://github.com/ohansemmanuel/astrojs-ditch-the-runtime-react.git
+  cd astrojs-ditch-the-runtime-react
+  npm install
+  npm run start
+```
